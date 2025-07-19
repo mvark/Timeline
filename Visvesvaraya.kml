@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Places Visvesvaraya visited or stayed</name>
+
+    <Placemark>
+      <name>Poona / Pune, Maharashtra</name>
+      <description>Studied and started career in engineering</description>
+      <Point>
+        <coordinates>73.8567,18.5204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bombay / Mumbai, Maharashtra</name>
+      <description></description>
+      <Point>
+        <coordinates>72.8777,19.0760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dhulia / Dhule, Maharashtra</name>
+      <description></description>
+      <Point>
+        <coordinates>74.7730,20.9044,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nasik / Nashik, Maharashtra</name>
+      <description></description>
+      <Point>
+        <coordinates>73.7898,20.0110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khandesh, Maharashtra</name>
+      <description></description>
+      <Point>
+        <coordinates>74.0000,20.0000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malegaon, Maharashtra</name>
+      <description></description>
+      <Point>
+        <coordinates>74.5350,20.5542,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sukkur, Sindh, Pakistan</name>
+      <description></description>
+      <Point>
+        <coordinates>68.8596,27.7052,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Surat, Gujarat</name>
+      <description></description>
+      <Point>
+        <coordinates>72.8311,21.1702,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Broach / Bharuch, Gujarat</name>
+      <description></description>
+      <Point>
+        <coordinates>73.0140,21.7059,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belgaum / Belagavi, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>74.5000,15.8500,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kolhapur, Maharashtra</name>
+      <description></description>
+      <Point>
+        <coordinates>74.2228,16.7050,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ahmedabad, Gujarat</name>
+      <description></description>
+      <Point>
+        <coordinates>72.5714,23.0225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bijapur / Vijayapura, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>75.7108,16.8300,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dharwar / Dharwad, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>75.1239,15.4589,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Goa, Goa State</name>
+      <description></description>
+      <Point>
+        <coordinates>73.8567,15.2993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morvi / Morbi, Gujarat</name>
+      <description></description>
+      <Point>
+        <coordinates>70.8182,22.8170,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pandharpur, Maharashtra</name>
+      <description></description>
+      <Point>
+        <coordinates>75.3204,17.6770,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rajkot, Gujarat</name>
+      <description></description>
+      <Point>
+        <coordinates>70.8022,22.3039,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baroda / Vadodara, Gujarat</name>
+      <description></description>
+      <Point>
+        <coordinates>73.1812,22.3072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gwalior, Madhya Pradesh</name>
+      <description></description>
+      <Point>
+        <coordinates>78.1798,26.2183,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bhavnagar, Gujarat</name>
+      <description></description>
+      <Point>
+        <coordinates>71.6553,21.7645,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aden, Yemen</name>
+      <description></description>
+      <Point>
+        <coordinates>45.0367,12.7855,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangalore / Bengaluru, Karnataka</name>
+      <description>Headed Mysore State engineering projects</description>
+      <Point>
+        <coordinates>77.5946,12.9716,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mysore / Mysuru, Karnataka</name>
+      <description>Engineered the Krishna Raja Sagara dam (1904–1911)</description>
+      <Point>
+        <coordinates>76.6394,12.2958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Madras / Chennai, Tamil Nadu</name>
+      <description></description>
+      <Point>
+        <coordinates>80.2707,13.0827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shimoga, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>75.5681,13.9299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bhatkal, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>74.5117,13.9760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Markanave / Marikanave, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>75.4550,14.4097,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bhadravati, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>75.7419,13.8363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sivasamudram, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>76.2400,12.2846,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kannambadi, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>76.3000,12.3000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chamarajanagar, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>77.0047,11.9081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ootacamund / Ooty, Tamil Nadu</name>
+      <description></description>
+      <Point>
+        <coordinates>76.6952,11.4064,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kabini, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>76.3000,11.8000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hemavati, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>76.3333,12.4167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Krishnarajasagara, near Mysore, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>76.5600,12.3370,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nandi Hills, Karnataka</name>
+      <description></description>
+      <Point>
+        <coordinates>77.6833,13.3700,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nagpur, Maharashtra</name>
+      <description></description>
+      <Point>
+        <coordinates>79.0882,21.1458,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Indore, Madhya Pradesh</name>
+      <description></description>
+      <Point>
+        <coordinates>75.8577,22.7196,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hyderabad (Deccan), Telangana</name>
+      <description>Engaged in engineering consulting</description>
+      <Point>
+        <coordinates>78.4867,17.3850,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Secunderabad, Telangana</name>
+      <description></description>
+      <Point>
+        <coordinates>78.4986,17.4399,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tungabhadra, Karnataka/Andhra Pradesh border</name>
+      <description></description>
+      <Point>
+        <coordinates>76.9800,15.4500,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chadarghat, Hyderabad, Telangana</name>
+      <description></description>
+      <Point>
+        <coordinates>78.4731,17.3950,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London, United Kingdom</name>
+      <description>Visited for study and exposure to engineering advancements</description>
+      <Point>
+        <coordinates>-0.1276,51.5074,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paris, France</name>
+      <description></description>
+      <Point>
+        <coordinates>2.3522,48.8566,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marseilles / Marseille, France</name>
+      <description></description>
+      <Point>
+        <coordinates>5.3698,43.2965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berlin, Germany</name>
+      <description></description>
+      <Point>
+        <coordinates>13.4050,52.5200,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Milan, Italy</name>
+      <description></description>
+      <Point>
+        <coordinates>9.1900,45.4642,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Florence, Italy</name>
+      <description></description>
+      <Point>
+        <coordinates>11.2558,43.7696,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Petersburg / Leningrad, Russia</name>
+      <description></description>
+      <Point>
+        <coordinates>30.3351,59.9343,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moscow, Russia</name>
+      <description></description>
+      <Point>
+        <coordinates>37.6173,55.7558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New York City, USA</name>
+      <description>Learned hydroelectric and flood control techniques</description>
+      <Point>
+        <coordinates>-74.0060,40.7128,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago, USA</name>
+      <description></description>
+      <Point>
+        <coordinates>-87.6298,41.8781,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boston, USA</name>
+      <description></description>
+      <Point>
+        <coordinates>-71.0589,42.3601,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ottawa, Canada</name>
+      <description></description>
+      <Point>
+        <coordinates>-75.6972,45.4215,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toronto, Canada</name>
+      <description></description>
+      <Point>
+        <coordinates>-79.3832,43.6532,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Detroit, USA</name>
+      <description></description>
+      <Point>
+        <coordinates>-83.0458,42.3314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoria, Canada (British Columbia)</name>
+      <description></description>
+      <Point>
+        <coordinates>-123.3656,48.4284,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tokyo, Japan</name>
+      <description></description>
+      <Point>
+        <coordinates>139.6917,35.6895,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kyoto, Japan</name>
+      <description></description>
+      <Point>
+        <coordinates>135.7681,35.0116,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nagasaki, Japan</name>
+      <description></description>
+      <Point>
+        <coordinates>129.8737,32.7503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yokohama, Japan</name>
+      <description></description>
+      <Point>
+        <coordinates>139.6380,35.4437,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hong Kong, China</name>
+      <description></description>
+      <Point>
+        <coordinates>114.1095,22.3964,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shanghai, China</name>
+      <description></description>
+      <Point>
+        <coordinates>121.4737,31.2304,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Singapore, Singapore</name>
+      <description>Worked on irrigation and other infrastructure projects</description>
+      <Point>
+        <coordinates>103.8198,1.3521,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colombo, Sri Lanka</name>
+      <description></description>
+      <Point>
+        <coordinates>79.8612,6.9271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Knoxville and Tennessee Valley Authority, USA</name>
+      <description></description>
+      <Point>
+        <coordinates>-83.9207,35.9606,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bristol, UK</name>
+      <description></description>
+      <Point>
+        <coordinates>-2.5879,51.4545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Derby, UK</name>
+      <description></description>
+      <Point>
+        <coordinates>-1.4746,52.9225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Windsor, Canada</name>
+      <description></description>
+      <Point>
+        <coordinates>-83.0467,42.3030,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aix-les-Bains, France</name>
+      <description></description>
+      <Point>
+        <coordinates>5.9340,45.6868,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Turin / Torino, Italy</name>
+      <description></description>
+      <Point>
+        <coordinates>7.6869,45.0703,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sweden</name>
+      <description>Studied steel and iron industry, early career</description>
+      <Point>
+        <coordinates>18.6435,60.1282,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Denmark</name>
+      <description></description>
+      <Point>
+        <coordinates>9.5018,56.2639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holland / Netherlands</name>
+      <description></description>
+      <Point>
+        <coordinates>5.2913,52.1326,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Russia</name>
+      <description></description>
+      <Point>
+        <coordinates>105.3188,61.5240,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
